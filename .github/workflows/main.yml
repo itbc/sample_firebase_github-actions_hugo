@@ -3,7 +3,7 @@ name: hugo_firebase_demo
 on:
     push:
       branches:
-        - develop # 任意のブランチを設定
+        - master # 任意のブランチを設定
 
 jobs:
     build:
