@@ -21,7 +21,7 @@ jobs:
             - name: build hugo pages
               run: |
                 cd develop/sampleWeb && hugo #Hugoプロジェクトパスへ移動＆ビルド
-            - name: Archive Production Artifact
+            - name: TEST  Archive Production Artifact
               uses: actions/upload-artifact@master
               with:
                 name: public
