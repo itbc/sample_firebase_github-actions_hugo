@@ -17,3 +17,4 @@ Just a few more steps and you're ready to go:
 3. Start the built-in live server via "hugo server".
 
 Visit https://gohugo.io/ for quickstart guide and full documentation.
+sample push
